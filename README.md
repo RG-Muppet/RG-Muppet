@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Mario ✨🚀  [catgithub] (https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)
 
 <!--
 **RG-Muppet/RG-Muppet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

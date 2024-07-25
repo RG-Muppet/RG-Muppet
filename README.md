@@ -1,6 +1,6 @@
 # Hola, soy Mario ✨🚀  
 
-### Soy QA Enginner en formación por parte de ![Tripleten](https://img.shields.io/badge/Tripleten-Tripleten?style=plastic&logoColor=%23FFFFFF&logoSize=auto&color=%23000000).
+### Soy Tester en formación por parte de ![Tripleten](https://img.shields.io/badge/Tripleten-Tripleten?style=plastic&logoColor=%23FFFFFF&logoSize=auto&color=%23000000).
 
 Soy psicologo de profesion y he trabajado la mayor parte de mi carrera en recursos humanos, gestionando proyectos con tiempos definidos y realizando análisis de problemas con una gran atención al detalle. 
 

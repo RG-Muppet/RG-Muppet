@@ -3,7 +3,8 @@
 <!--
 **RG-Muppet/RG-Muppet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Puedes encontrarme en 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010](https://img.shields.io/badge/Mario_Pastrana-Mario_Pastrana?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF&logoSize=auto&label=Linkedin&labelColor=%23000000&color=%230A66C2)](www.linkedin.com/in/mario-guillermo-p-99b040140)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

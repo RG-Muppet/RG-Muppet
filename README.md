@@ -17,3 +17,4 @@ Actualmente en ![Tripleten](https://img.shields.io/badge/Tripleten-Tripleten?sty
 [![LinkedIn](https://img.shields.io/badge/Mario_Pastrana-Mario_Pastrana?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF&logoSize=auto&label=Linkedin&labelColor=%23000000&color=%230A66C2
 )](www.linkedin.com/in/mario-guillermo-p-99b040140)
 
+

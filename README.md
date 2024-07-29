@@ -1,5 +1,5 @@
 # Hola, soy Mario ✨🚀  
-
+https://github.com/RG-Muppet/RG-Muppet/blob/0749932f9378c442dc844aad473e590d5984cb4a/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).png
 ### Soy Tester en formación por parte de ![Tripleten](https://img.shields.io/badge/Tripleten-Tripleten?style=plastic&logoColor=%23FFFFFF&logoSize=auto&color=%23000000).
 
 Soy psicologo de profesion y he trabajado la mayor parte de mi carrera en recursos humanos, gestionando proyectos con tiempos definidos y realizando análisis de problemas con una gran atención al detalle. 

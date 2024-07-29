@@ -12,7 +12,7 @@ Actualmente en ![Tripleten](https://img.shields.io/badge/Tripleten-Tripleten?sty
 - Me apasiona la técnología y todos los nuevos avances 📱🖱️.
 
 ## Herramientas y tecnologias 🛠️⚙️💻
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="Notion Icon" width="64"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Notion Icon" width="64"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="Notion Icon" width="64"/> <img src="https://github.com/RG-Muppet/RG-Muppet/blob/main/jira-icon-2048x2048-nufjgz6n.png" alt="Notion Icon" width="64"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Notion Icon" width="64"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="Notion Icon" width="64"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="Notion Icon" width="64"/>

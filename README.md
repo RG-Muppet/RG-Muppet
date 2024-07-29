@@ -12,7 +12,11 @@ Actualmente en ![Tripleten](https://img.shields.io/badge/Tripleten-Tripleten?sty
 - Me apasiona la técnología y todos los nuevos avances 📱🖱️.
 
 ## Herramientas y tecnologias 🛠️⚙️💻
-![Androidstudi](https://img.shields.io/badge/Android_Studio-Android_Studio?style=for-the-badge&logo=androidstudio&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23000000&color=%233DDC84) ![JIRA](https://img.shields.io/badge/Jira-Jira?style=for-the-badge&logo=jira&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23000000&color=%230052CC) ![Postman](https://img.shields.io/badge/Postman-Postman?style=for-the-badge&logo=postman&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23000000&color=%23FF6C37) ![Pycharm](https://img.shields.io/badge/Pycharm-Pycharm?style=for-the-badge&logo=pycharm&logoColor=%23FFFFFF&logoSize=auto&labelColor=%23000000&color=%231DA456)
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="Notion Icon" width="64"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Notion Icon" width="64"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Notion Icon" width="64"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="Notion Icon" width="64"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="Notion Icon" width="64"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Notion Icon" width="64"/>
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/Mario_Pastrana-Mario_Pastrana?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF&logoSize=auto&label=Linkedin&labelColor=%23000000&color=%230A66C2
 )](https://www.linkedin.com/in/mario-guillermo-p-99b040140/)
